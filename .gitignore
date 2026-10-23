@@ -1,0 +1,17 @@
+# Ambientes e caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+# IDEs
+.idea/
+.vscode/
+# Arquivos locais e credenciais
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
